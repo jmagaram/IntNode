@@ -5,7 +5,7 @@ and see which tests pass.
 
 ## How to do the exercise
 
-1. Open **[Program.cs](https://raw.githubusercontent.com/jmagaram/IntNode/main/Program.cs)**.
+1. Open **[Program.cs](https://raw.githubusercontent.com/jmagaram/IntNode/master/Program.cs)**.
 2. Select all of it (Ctrl+A) and copy it (Ctrl+C).
 3. Go to **[dotnetfiddle.net](https://dotnetfiddle.net)**, delete what's there,
    and paste (Ctrl+V).
