@@ -5,6 +5,7 @@
         "editor.formatOnSave": true,
         "editor.minimap.enabled": false,
         "workbench.statusBar.visible": false,
+        "editor.codeLens": false
       },
       "extensions": [
         "ms-dotnettools.csdevkit",
