@@ -63,8 +63,20 @@ class Program
     // 2. The sum of the even numbers in the list.
     public static int SumEvenElements(IntNode lst)
     {
-        // TODO
-        return 0;
+        if (lst == null)
+        {
+            return 0;
+        }
+        int result = 0;
+        while (lst != null)
+        {
+            if (lst.GetValue() % 2 == 0)
+            {
+                result += lst.GetValue();
+            }
+            lst = lst.GetNext();
+        }
+        return result;
     }
 
     // 3. true if x is somewhere in the list, otherwise false.
